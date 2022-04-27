@@ -1,0 +1,22 @@
+district_id,district_name,residents,households,avg_household_size
+01, centro,134881,67296,2.0
+02, arganzuela,153830,65005,2.37
+03, retiro,119379,48673,2.45
+04, salamanca,146148,62951,2.32
+05, chamartin,145865,58240,2.5
+06, tetuan,157937,66428,2.38
+07, chamberi,139448,62013,2.25
+08, fuencarral-el pardo,246021,90495,2.72
+09, moncloa-aravaca,119423,45650,2.62
+10, latina,238154,95217,2.5
+11, carabanchel,253040,95680,2.64
+12, usera,139501,49780,2.8
+13, puente de vallecas,234770,88465,2.65
+14, moratalaz,94609,37547,2.52
+15, ciudad lineal,216270,86658,2.5
+16, hortaleza,188267,70099,2.69
+17, villaverde,148883,53333,2.79
+18, villa de vallecas,110436,42237,2.61
+19, vicalvaro,72126,26232,2.75
+20, san blas-canillejas,158166,59896,2.64
+21, barajas,48972,18269,2.68

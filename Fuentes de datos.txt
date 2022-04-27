@@ -1,0 +1,16 @@
+Datos de la comunidad de Madrid para proyecto: 
+- Recogida de residuos:
+https://datos.madrid.es/sites/v/index.jsp?vgnextoid=86e4ee950779d510VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD
+
+- Ranking de vulnerabilidad de los distritos y barrios de Madrid:
+https://datos.madrid.es/sites/v/index.jsp?vgnextoid=d029ed1e80d38610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD
+
+- Indicadores de renta media, URBAN AUDIT:
+https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Estadistica/Areas-de-informacion-estadistica/Economia/Renta/Urban-Audit/?vgnextfmt=default&vgnextoid=6d40393c7ee41710VgnVCM2000001f4a900aRCRD&vgnextchannel=ef863636b44b4210VgnVCM2000000c205a0aRCRD
+
+- Hogares por Tamaño, Composición del hogar, Nacionalidad y Sección Censal según Distrito (Explotación estadística):
+
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=88ef31e2af4c1710VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+
+- Infraestructura hotelera:
+https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Estadistica/Areas-de-informacion-estadistica/Turismo-y-eventos/Turismo/Infraestructura-hotelera/?vgnextfmt=default&vgnextoid=4de8815bda969210VgnVCM2000000c205a0aRCRD&vgnextchannel=6c3cf9b50632a210VgnVCM1000000b205a0aRCRD

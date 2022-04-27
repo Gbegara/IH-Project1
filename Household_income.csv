@@ -1,0 +1,22 @@
+district_id,district_name,avg_income_person,Avg_household_income
+ 01, centro,17932,36072.0
+ 02, arganzuela,18473,43789.0
+ 03, retiro,22706,55775.0
+ 04, salamanca,26255,61466.0
+ 05, chamartin,28190,70735.0
+ 06, tetuan,15742,37557.0
+ 07, chamberi,24112,54327.0
+ 08, fuencarral-el pardo,19551,52858.0
+ 09, moncloa-aravaca,24686,64066.0
+ 10, latina,12749,31872.0
+ 11, carabanchel,11327,29842.0
+ 12, usera,9860,27674.0
+13, puente de vallecas,10045,26652.000000000004
+ 14, moratalaz,14637,36755.0
+ 15, ciudad lineal,15815,39425.0
+ 16, hortaleza,19759,52944.0
+ 17, villaverde,10164,28407.0
+18, villa de vallecas,12545,32765.0
+ 19, vicalvaro,12353,33870.0
+ 20, san blas-canillejas,14100,37112.0
+ 21, barajas,18514,49615.0

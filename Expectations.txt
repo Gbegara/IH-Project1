@@ -1,0 +1,6 @@
+The aim of the project is to identify which are the most influential factors when it comes to waste generation in each district of Madrid. First we will start by using variables such as the population of each district, vulnerability and other socio-economic data.
+
+As the project progresses we will introduce more variables to analyse the behaviour of these variables.
+
+The expectation is that the most decisive factor for waste management will be the population of each district, first we will test this hypothesis and as we progress we will test different hypotheses
+

@@ -1,0 +1,107 @@
+district_id,district_name,waste_type,yearly_waste
+01, centro,resto,72363.62000000001
+01, centro,envases,2581.8599999999997
+01, centro,vidrio,8155.4000000000015
+01, centro,clinicos,1904.5800000000004
+01, centro,organica,0.0
+02, arganzuela,resto,27872.72
+02, arganzuela,envases,3878.6999999999994
+02, arganzuela,vidrio,3265.04
+02, arganzuela,puntos limpios,781.9800000000001
+02, arganzuela,organica,7171.080000000001
+03, retiro,resto,29566.860000000004
+03, retiro,envases,2881.7
+03, retiro,vidrio,3343.9000000000005
+03, retiro,organica,1086.98
+04, salamanca,resto,44031.340000000004
+04, salamanca,envases,3804.3
+04, salamanca,vidrio,3553.8399999999997
+04, salamanca,clinicos,1429.4
+04, salamanca,organica,714.8799999999997
+05, chamartin,resto,39469.79999999999
+05, chamartin,envases,4042.34
+05, chamartin,vidrio,3278.4800000000005
+05, chamartin,puntos limpios,1233.9
+05, chamartin,organica,766.6200000000001
+06, tetuan,resto,34184.84
+06, tetuan,envases,3946.8999999999996
+06, tetuan,vidrio,3273.2
+06, tetuan,organica,10615.179999999998
+07, chamberi,resto,29827.56000000001
+07, chamberi,envases,4020.66
+07, chamberi,vidrio,3514.54
+07, chamberi,organica,8918.46
+08, fuencarral,resto,63067.43999999999
+08, fuencarral,envases,7334.899999999998
+08, fuencarral,vidrio,4391.74
+08, fuencarral,puntos limpios,1448.0
+08, fuencarral,organica,2675.3000000000006
+09, moncloa - aravaca,resto,38421.01999999999
+09, moncloa - aravaca,envases,3741.1200000000003
+09, moncloa - aravaca,vidrio,2243.2400000000002
+09, moncloa - aravaca,clinicos,0.0
+09, moncloa - aravaca,puntos limpios,813.02
+09, moncloa - aravaca,organica,11234.96
+10, latina,resto,46180.34000000001
+10, latina,envases,6275.119999999999
+10, latina,vidrio,2187.54
+10, latina,puntos limpios,446.28000000000003
+10, latina,organica,12876.519999999997
+11, carabanchel,resto,62655.42
+11, carabanchel,envases,7987.680000000003
+11, carabanchel,vidrio,2955.2999999999997
+11, carabanchel,clinicos,403.64000000000004
+11, carabanchel,puntos limpios,310.15999999999997
+11, carabanchel,organica,1556.5400000000004
+12, usera,resto,33024.56
+12, usera,envases,4422.820000000001
+12, usera,vidrio,1201.26
+12, usera,puntos limpios,388.56
+12, usera,organica,789.7599999999998
+13, puente de vallecas,resto,50385.40000000001
+13, puente de vallecas,envases,8243.04
+13, puente de vallecas,vidrio,2230.5
+13, puente de vallecas,clinicos,49.46000000000001
+13, puente de vallecas,puntos limpios,410.82
+13, puente de vallecas,organica,9739.62
+14, moratalaz,resto,17881.319999999996
+14, moratalaz,envases,2844.5400000000004
+14, moratalaz,vidrio,2377.2400000000002
+14, moratalaz,puntos limpios,509.84
+14, moratalaz,organica,607.96
+15, ciudad lineal,resto,41865.119999999995
+15, ciudad lineal,envases,6444.399999999999
+15, ciudad lineal,vidrio,2161.42
+15, ciudad lineal,clinicos,1085.7
+15, ciudad lineal,puntos limpios,613.9800000000001
+15, ciudad lineal,organica,10478.779999999999
+16, hortaleza,resto,39852.479999999996
+16, hortaleza,envases,6198.220000000001
+16, hortaleza,vidrio,2403.2999999999997
+16, hortaleza,puntos limpios,552.78
+16, hortaleza,organica,9324.54
+17, villaverde,resto,32468.220000000005
+17, villaverde,envases,5143.820000000001
+17, villaverde,vidrio,1453.42
+17, villaverde,puntos limpios,293.0799999999999
+17, villaverde,organica,6753.679999999999
+18, villa de vallecas,resto,43952.56
+18, villa de vallecas,envases,3354.28
+18, villa de vallecas,vidrio,1162.54
+18, villa de vallecas,puntos limpios,571.9399999999999
+18, villa de vallecas,organica,11101.260000000002
+19, vicalvaro,resto,26089.639999999996
+19, vicalvaro,envases,2080.1400000000003
+19, vicalvaro,vidrio,866.3599999999999
+19, vicalvaro,puntos limpios,301.48
+19, vicalvaro,organica,2061.38
+20, san blas-canillejas,resto,44052.75999999999
+20, san blas-canillejas,envases,5071.9400000000005
+20, san blas-canillejas,vidrio,2423.4
+20, san blas-canillejas,puntos limpios,715.4
+20, san blas-canillejas,organica,7703.98
+21, barajas,resto,17023.360000000004
+21, barajas,envases,1932.16
+21, barajas,vidrio,1571.46
+21, barajas,puntos limpios,299.71999999999997
+21, barajas,organica,191.29999999999998
